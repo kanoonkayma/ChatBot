@@ -14,4 +14,4 @@ processaImagem.js: Responsável por processar uma imagem na intenção de que se
 
 Arquivos nativos: package.json e package-lock.json
 
-OBS: o arquivo .env não foi compartilhado por motivos de segurança referente a chave API de acesso ao Gemini.
+OBS: o arquivo .env precisa de uma variavel de ambiente contendo a chave da API Gemini.
